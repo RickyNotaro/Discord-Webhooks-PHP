@@ -4,7 +4,7 @@
     "homepage": "https://github.com/AuroraAri/Discord-Webhooks-PHP",
     "keywords": ["php", "wrapper", "discordapp", "discord", "webhooks"],
     "license": "Unlicense",
-    "type": "wrapper",{
+    "type": "wrapper",
     "require": {
         "php": ">=5.3",
         "ext-curl": "^0.0.0"
